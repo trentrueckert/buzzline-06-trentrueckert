@@ -1,19 +1,6 @@
-# buzzline-04-case
+# buzzline-06-rueckert
 
-We can analyze and visualize different types of streaming data as the information arrives.
-
-The producers don't change from buzzline-03-case - they write the same information to a Kafka topic, except the csv producer for the smart smoker has been modified to not run continuously. It will stop after reading all the rows in the CSV file. 
-The consumers have been enhanced to add visualization. 
-
-This project uses matplotlib and its animation capabilities for visualization. 
-
-It generates three applications:
-
-1. A basic producer and consumer that exchange information via a dynamically updated file. 
-2. A JSON producer and consumer that exchange information via a Kafka topic. 
-3. A CSV producer and consumer that exchange information via a different Kafka topic. 
-
-All three applications produce live charts to illustrate the data. 
+## Golf Round Live Tracker
 
 ## Task 1. Use Tools from Module 1 and 2
 
