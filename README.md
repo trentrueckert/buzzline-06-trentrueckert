@@ -45,5 +45,5 @@ This script:
 ---
 ## Visualization
 
-![alt text](<"C:\Users\trent\OneDrive\Documents\Screenshot 2025-02-21 Golfers.png">)
+![alt text](<images/Screenshot 2025-02-21 Golfers.png>)
 
