@@ -9,7 +9,7 @@ Date: 2/21/2025
 This repository contains a real-time golf round tracker, where a Kafka producer generates random golf round scores and stores them in dictionaries to be logged in the log folder. A Kafka consumer reads from the database and generates a line chart depicting the hole-by-hole scores of 4 golfers.
 
 ## Project Setup
-### 1️. Create and Activate Virtual Environment
+### Create and Activate Virtual Environment
 Before running the scripts, set up a virtual environment:
 ```powershell
 # Create virtual environment
